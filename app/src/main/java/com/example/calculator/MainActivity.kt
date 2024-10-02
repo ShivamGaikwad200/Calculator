@@ -24,7 +24,7 @@ class MainActivity : ComponentActivity() {
 
     private lateinit var binding: ActivityMainBinding
     private var canaddoperation=false
-    private var canadddecimal=true
+    private var canadddecimal=false
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
