@@ -27,7 +27,7 @@
             android:singleLine="true"
             android:textColor="@color/white"
             android:fontFamily="sans-serif-smallcaps"
-            android:text="12"
+            android:text=""
             android:textSize="50dp"
             android:textStyle="bold" />
 
